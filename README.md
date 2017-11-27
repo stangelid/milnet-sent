@@ -1,6 +1,6 @@
 ## Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
 
-This repository will soon store the implementations of the methods presented in our paper:
+This repository will soon hold the implementations of the methods presented in our paper:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2017. <br/>
