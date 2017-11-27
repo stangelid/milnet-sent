@@ -1,6 +1,6 @@
-# Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
+## Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis
 
-This repository will soon be home to the code for the models proposed in our paper:
+This repository will soon store the implementations of the methods presented in our paper:
 
 > **Multiple Instance Learning Networks for Fine-Grained Sentiment Analysis**,<br/>
 > Stefanos Angelidis, Mirella Lapata. 2017. <br/>
@@ -9,4 +9,5 @@ This repository will soon be home to the code for the models proposed in our pap
 
 ### SPOT data
 
-The newly annotated SPOT dataset is available on @EdinburghNLP's github page: [link](https://github.com/EdinburghNLP/spot-data)
+The newly annotated SPOT dataset used in the above paper is available on the 
+@EdinburghNLP github page: [link](https://github.com/EdinburghNLP/spot-data)
