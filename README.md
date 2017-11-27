@@ -9,5 +9,5 @@ This repository will soon hold the implementations of the methods presented in o
 
 ### SPOT data
 
-The newly annotated SPOT dataset used in the above paper is available on the 
-@EdinburghNLP github page: [link](https://github.com/EdinburghNLP/spot-data)
+The newly annotated SPOT dataset used in the above paper is already available on the 
+EdinburghNLP github page: [link](https://github.com/EdinburghNLP/spot-data)
